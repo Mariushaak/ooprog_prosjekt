@@ -5,7 +5,7 @@
 
 
 
-//legger inn _Nonnull
+//legger inn 
 
 
 int main() {
