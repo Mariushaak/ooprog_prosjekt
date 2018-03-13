@@ -1,0 +1,4 @@
+1 fil med enum, const, main, globale variabler, funksjonsdeklarasjoner/headinger.
+funksjonsdefinisjoner: evt flere filer.
+
+1 fil per: struct, klassedeklarasjon, klassedefinisjon, globale funksjoner.
